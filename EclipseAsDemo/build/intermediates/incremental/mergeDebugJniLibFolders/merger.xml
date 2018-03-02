@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\MyDemo\ContainEclipseDirDemo\EclipseAsDemo\libs"><file name="android-support-v4.jar" path="F:\MyDemo\ContainEclipseDirDemo\EclipseAsDemo\libs\android-support-v4.jar"/></source></dataSet><dataSet config="debug"><source path="F:\MyDemo\ContainEclipseDirDemo\EclipseAsDemo\build-types\debug\jniLibs"/></dataSet></merger>

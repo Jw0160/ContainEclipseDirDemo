@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\MyDemo\\ContainEclipseDirDemo\\EclipseAsDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\MyDemo\\ContainEclipseDirDemo\\EclipseAsDemo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\ContainEclipseDirDemo\\EclipseAsDemo\\build\\intermediates\\res\\merged\\release\\layout\\activty_eclipse_demo.xml",
+        "source": "F:\\MyDemo\\ContainEclipseDirDemo\\EclipseAsDemo\\res\\layout\\activty_eclipse_demo.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\ContainEclipseDirDemo\\EclipseAsDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_eclipse.xml",
+        "source": "F:\\MyDemo\\ContainEclipseDirDemo\\EclipseAsDemo\\res\\layout\\activity_main_eclipse.xml"
+    }
+]
